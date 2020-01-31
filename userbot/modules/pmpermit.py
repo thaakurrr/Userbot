@@ -19,7 +19,7 @@ from userbot.events import register
 UNAPPROVED_MSG = ("`Welcome, You are a wonderful person with a wonderful view of life.`\n\n"
                   "`Your companionship is always an opportunity But Sed This line is not for you.`"
                   "`So just tell why you are here ?`\n\n"
-                  "`Your message will be responded when I'm free,Don't sit here whole day coz there are lots of pending messages😶‚`")
+                  "`Your message will be responded when I'm free or msg me here @Thaakurr_bot ,Don't sit here whole day coz there are lots of pending messages😶‚`")
 # =================================================================
 
 
